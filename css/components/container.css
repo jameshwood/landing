@@ -1,0 +1,28 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.class-container {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.link-container {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.link-container i {
+  font-size: 60px; /* Size of social media icons */
+  color: #00485A; /* Adjust icon color as desired */
+}
+
+.link-container i:hover {
+  color: #F48B99;
+}

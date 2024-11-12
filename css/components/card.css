@@ -1,0 +1,14 @@
+.card {
+  width: 200px;
+  border-radius: 10px;
+  background-color: #FFCE4C;
+  box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 20px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
